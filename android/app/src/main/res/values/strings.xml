@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyQuiz</string>
+    <string name="CodePushDeploymentKey" moduleConfig="true" translatable="false">yF0fVCCRkuX21cipvIEoquTtCf1sDudUPK1G4</string>
+</resources>
