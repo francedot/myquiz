@@ -3,7 +3,7 @@ const ACIOSPRODUCTION = "wRHIObZfBYKbrfSW_laHGeDwvbG34YLpqgr3l"
 const ACANDROIDSTAGING = "yF0fVCCRkuX21cipvIEoquTtCf1sDudUPK1G4"
 const ACANDROIDPRODUCTION = "Je9YtbQkSgEL7dFeG9WMvt2X5tCKAsBD169TR"
 
-const isBetaUser = true;
+const isBetaUser = false;
 
 const CodePushKeys = Platform.select({
     ios: {
