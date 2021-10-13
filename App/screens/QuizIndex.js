@@ -42,7 +42,7 @@ export default ({navigation}) => (
           color: '#36b1f0',
         })}
     />
-    <RowItem
+    {/* <RowItem
       name="Westerns"
       color="#799496"
       onPress={() =>
@@ -51,7 +51,7 @@ export default ({navigation}) => (
           questions: westernsQuestions,
           color: '#799496',
         })}
-    />
+    /> */}
     <RowItem
       name="Computers"
       color="#49475B"
